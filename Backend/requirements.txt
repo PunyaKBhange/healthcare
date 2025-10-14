@@ -1,0 +1,15 @@
+fastapi
+sqlalchemy
+python-dotenv
+pydantic[email]
+pydantic-settings
+pymupdf
+google-generativeai
+pickle-mixin
+numpy
+joblib
+passlib
+scikit-learn
+mysql-connector-python
+python-multipart
+uvicorn[standard]
