@@ -1,4 +1,4 @@
-🏥 HealthPredict: The Future of Personalized Medical AI 🚀
+HealthPredict: The Future of Personalized Medical AI 🚀
 Version Python Next.js FastAPI Gemini AI
 
 "Your Personal AI Health Assistant – From Symptoms to Solutions in Seconds."
@@ -104,3 +104,4 @@ Branch it (git checkout -b feature/CoolNewFeature).
 Commit it (git commit -m 'Add CoolNewFeature').
 Push it (git push origin feature/CoolNewFeature).
 Open a Pull Request.
+Made with ❤️ and 🧠 by Sanjana Empowering Health through Artificial Intelligence.
